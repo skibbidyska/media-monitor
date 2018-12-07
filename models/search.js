@@ -5,4 +5,4 @@ const SearchSchema = new Schema({
 
 });
 
-module.exports = Search = mongoose.model("search", SearchSchema);
+module.exports = Search = mongoose.model("Search", SearchSchema);
